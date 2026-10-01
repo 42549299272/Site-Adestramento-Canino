@@ -1,0 +1,8 @@
+{
+  "name": "Guia de Adestramento Canino - Transformação em 30 Dias",
+  "description": "Transforme o comportamento do seu cão em 30 dias (ou menos) usando o poder do reforço positivo — sem gritos, sem força bruta e sem coleiras de estrangulamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
